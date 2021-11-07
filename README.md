@@ -12,6 +12,6 @@
 <br/>
 <br/>
 
-## Compile and run using `bat` file on windows with GNU compiler
+## Compile and run using `Batch` file on windows with GNU compiler
 1. Download the `main.cpp` and `CompileAndRun.bat` file and save under same directory.
 2. Then, just double click on `CompileAndRun.bat` file. It will will compile the program and run it on the command prompt.
